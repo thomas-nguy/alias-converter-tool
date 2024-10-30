@@ -1,14 +1,14 @@
-# === Alias converter tool ===
+# Alias converter tool
 
-## How to use:
+### How to use:
 
-### - Build the project 
+#### - Build the project 
 
 ```aiignore
 yarn & yarn build
 ```
 
-### - Update the configuration config.json your addresses
+#### - Update the configuration config.json your addresses
 
 ```aiignore
 {
@@ -17,7 +17,7 @@ yarn & yarn build
 }
 ```
 
-### - Run the tool
+#### - Run the tool
 
 ```aiignore
 yarn convert
